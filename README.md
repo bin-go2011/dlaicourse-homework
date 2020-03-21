@@ -1,1 +1,1 @@
-# dlaicourse-homework
+# [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
